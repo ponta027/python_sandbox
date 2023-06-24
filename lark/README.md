@@ -58,7 +58,7 @@ print( l.parse("Hello, World!") )
 
 
 これだけだとTransision Argumentが足りていないので、解析エラーが発生する。
-今後修正を行っていく予定。
+今後修正する予定。
 
 
 
